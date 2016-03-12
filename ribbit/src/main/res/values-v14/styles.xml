@@ -1,0 +1,45 @@
+<resources>
+
+    <!--
+        Base application theme for API 14+. This theme completely replaces
+        AppBaseTheme from BOTH res/values/styles.xml and
+        res/values-v11/styles.xml on API 14+ devices.
+    -->
+    <!-- -->
+    <!--<style name="Theme.Ribbit" parent="@style/Theme.AppCompat.Light.DarkActionBar">-->
+        <!--<item name="android:actionBarItemBackground">@drawable/selectable_background_ribbit</item>-->
+        <!--<item name="android:popupMenuStyle">@style/PopupMenu.Ribbit</item>-->
+        <!--<item name="android:dropDownListViewStyle">@style/DropDownListView.Ribbit</item>-->
+        <!--<item name="android:actionBarTabStyle">@style/ActionBarTabStyle.Ribbit</item>-->
+        <!--<item name="android:actionDropDownStyle">@style/DropDownNav.Ribbit</item>-->
+        <!--<item name="android:actionBarStyle">@style/ActionBar.Solid.Ribbit</item>-->
+        <!--<item name="android:actionModeBackground">@drawable/cab_background_top_ribbit</item>-->
+        <!--<item name="android:actionModeSplitBackground">@drawable/cab_background_bottom_ribbit</item>-->
+        <!--<item name="android:actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Ribbit</item>-->
+
+        <!--&lt;!&ndash; Light.DarkActionBar specific &ndash;&gt;-->
+        <!--<item name="android:actionBarWidgetTheme">@style/Theme.Ribbit.Widget</item>-->
+
+    <!--</style>-->
+
+    <!--<style name="ActionBar.Solid.Ribbit" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">-->
+        <!--<item name="android:background">@drawable/ab_solid_ribbit</item>-->
+        <!--<item name="android:backgroundStacked">@drawable/ab_stacked_solid_ribbit</item>-->
+        <!--<item name="android:backgroundSplit">@drawable/ab_bottom_solid_ribbit</item>-->
+        <!--<item name="android:progressBarStyle">@style/ProgressBar.Ribbit</item>-->
+    <!--</style>-->
+
+    <!--<style name="ActionBar.Transparent.Ribbit" parent="@style/Widget.AppCompat.ActionBar">-->
+        <!--<item name="android:background">@drawable/ab_transparent_ribbit</item>-->
+        <!--<item name="android:progressBarStyle">@style/ProgressBar.Ribbit</item>-->
+    <!--</style>-->
+
+    <!--&lt;!&ndash; this style is only referenced in a Light.DarkActionBar based theme &ndash;&gt;-->
+    <!--<style name="Theme.Ribbit.Widget" parent="@style/Theme.AppCompat">-->
+        <!--<item name="android:popupMenuStyle">@style/PopupMenu.Ribbit</item>-->
+        <!--<item name="android:dropDownListViewStyle">@style/DropDownListView.Ribbit</item>-->
+    <!--</style>-->
+
+    <!-- -->
+
+</resources>
